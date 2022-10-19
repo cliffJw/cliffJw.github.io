@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: ColdFusionX                          # the main title
+title: CliffJw                          # the main title
 
 tagline: CTF Player | Pentester | InfoSec Enthusiast # it will display as the sub-title
           
@@ -16,7 +16,7 @@ description: >-                        # used by seo meta and the atom feed
   Realm of Knowledge
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://ColdFusionX.github.io'
+url: 'https://cliffJw.github.io'
 
 author: Mayank Deshmukh               # change to your full name
 
@@ -46,13 +46,13 @@ google_site_verification: CtBtIysuQ8b6k36FI7jqU-o34DRoA_sye50a-RNtPPY # change t
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: ""
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Kolkata
+timezone: Africa/Nairobi
 
 google_analytics:
-  id: 'UA-177226674-1'          # Fill with your Google Analytics ID
+  id: ''          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
