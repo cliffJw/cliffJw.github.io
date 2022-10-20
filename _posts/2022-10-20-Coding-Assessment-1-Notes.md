@@ -2,7 +2,7 @@
 title: "Coding Assessment - Notes"
 date: 2022-10-02 07:06:00 +0530
 categories: [Assessments]
-image: ../../assets/img/Posts/Assessment/assessment.png
+image: /assets/img/Posts/Assessment/assessment.png
 tags: [Python,User Journey,Analysis]
 
 ---
