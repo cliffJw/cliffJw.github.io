@@ -1,7 +1,7 @@
 # This is a workflow to deploy tags and update lastmod via automation
-# Author : ColdFusionX
+# Author : Cliffjw
 
-name: CI
+name: JW
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch

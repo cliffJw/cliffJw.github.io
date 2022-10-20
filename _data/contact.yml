@@ -31,7 +31,7 @@
 -
    type: LinkedIn
    icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-   url: 'https://www.linkedin.com/in/mayank-deshmukh-162919115'                  # Fill with your Linkedin homepage
+  #  url: 'https://www.linkedin.com/in/wycliffe-omondi-276284b1'                  # Fill with your Linkedin homepage
 # -
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
