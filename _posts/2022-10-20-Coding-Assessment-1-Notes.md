@@ -3,7 +3,7 @@ title: "Coding Assessment - Notes"
 date: 2022-10-02 07:06:00 +0530
 categories: [Assessments]
 tags: [Python,User Journey,Analysis]
-image: (/assets/img/Posts/Assessment/assessent.png)
+image: ../../assets/img/Posts/Assessment/assessent.png
 ---
 
 > This is a coding assessment that I did. It entails performing analysis on a given dataset and deriving useful and actionable insights. The writeup covers setup of the assessment environment and the actual analysis/assessment.
