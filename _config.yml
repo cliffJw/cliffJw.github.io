@@ -23,23 +23,23 @@ author: Mayank Deshmukh               # change to your full name
 avatar: /assets/img/sample/profile.png   # support internet resources
 
 github:
-  username: ColdFusionX             # change to your github username
+  username: cliffJw            # change to your github username
 
 twitter:
-  username: ColdFusionX_            # change to your twitter username
+  username: _itsjw            # change to your twitter username
 
 social:
-  name: Mayank Deshmukh                  # it will shows as the copyright owner in Footer
-  email: coldfusionx@outlook.com             # change to your email address
+  name: John Wycliffe                 # it will shows as the copyright owner in Footer
+  email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ColdFusionX_      # change to your twitter homepage
-    - https://github.com/ColdFusionX       # change to your github homepage
+    - https://twitter.com/_itsjw      # change to your twitter homepage
+    - https://github.com/cliffJw       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: CtBtIysuQ8b6k36FI7jqU-o34DRoA_sye50a-RNtPPY # change to your verification string
+google_site_verification:  # change to your verification string
 
 #--------------------------
 
@@ -64,7 +64,7 @@ google_analytics:
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'coldfx'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  shortname: 'jw'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 plugins:
   - jekyll-seo-tag
